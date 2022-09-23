@@ -1,9 +1,4 @@
 ## Pedrozand na parada 🥶👨‍💻 
- <div>
-  <a href="https://github.com/pedrozand">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrozand&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrozand&layout=compact&langs_count=16&theme=dracula"/>
-<div>
  
  <details>	
   <summary><a href="#"><img src="https://github.com/pedrozand/pedrozand/blob/main/images/icon_github.png"/></a><b> Github Profile Stats</b></summary>
