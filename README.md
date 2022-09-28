@@ -1,10 +1,10 @@
 
 <img src="https://github.com/pedrozand/github/blob/main/T5Xm.gif" width="300px" align="left">
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
  
   <div><h1> Pedrozand na parada 🥶 </h1></div>
   
-  <br><br>
+  <br><br><br>
   
   # Sobre mim
   Sou estudante na Faculdade de Tecnologia do estado de São Paulo, tenho foco na área de Redes de Computadores porém minha paixão por códigos é gigante, tenho afinidade com linguagens de Back-end e manipulação de Banco de Dados com aspecto exclusivo em SQL.
