@@ -9,8 +9,8 @@
 <br>
  <div>	
  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrozand&show_icons=true&count_private=true&theme=react&border_color=FFFAFA&bg_color=7B68EE&title_color=FFFAFA&icon_color=4B0082" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrozand&exclude_repo=machine-learning&langs_count=8&layout=compact&theme=react&border_color=FFFAFA&bg_color=7B68EE&title_color=4B0082&icon_color=79ff97"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrozand&show_icons=true&count_private=true&theme=react&border_color=D2691E&bg_color=0d1117&title_color=CD853F&icon_color=FF4500" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrozand&exclude_repo=machine-learning&langs_count=8&layout=compact&theme=react&border_color=D2691E&bg_color=0d1117&title_color=CD853F&icon_color=FF4500"/>
 </div>
 
 <div align=center>
