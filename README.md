@@ -1,6 +1,6 @@
  <br></br>
   <img src="./github/tails.gif" width="220px" align="left"> 
-  # Pedrozand na parada 🥶👨‍
+  # Pedrozand na parada 🥶
   
   # Sobre mim
   Sou estudante na Faculdade de Tecnologia do estado de São Paulo, tenho foco na área de Redes de Computadores porém minha paixão por códigos é gigante, tenho afinidade com linguagens de Back-end e manipulação de Banco de Dados com aspecto exclusivo em SQL.
