@@ -2,7 +2,7 @@
 <img src="https://github.com/pedrozand/github/blob/main/T5Xm.gif" width="300px" align="left">
 <br><br><br><br><br><br>
  
-  <div><h1> Pedrozand na parada 🥶 </h1></div>
+  <div><h1 align="center"> Pedrozand na parada 🥶 </h1></div>
   
   <br><br><br>
   
