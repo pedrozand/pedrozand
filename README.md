@@ -22,6 +22,7 @@
   <a href="discordapp.com/users/Pedro Oliveira#8203" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:pedroliveira.eear@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-oliveira-644718206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.beecrowd.com.br/judge/pt/profile/743098" target="_blank"><img backgroundColor="blue" height="25em" src="https://www.beecrowd.com.br/home/wp-content/uploads/2021/08/beecrowd__negativoHor-vazado-small-PNG-1024x246.png"></a>
 
   <h2> Minhas Principais Tecnologias </h2>
   <a><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
