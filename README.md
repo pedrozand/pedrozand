@@ -2,12 +2,14 @@
 <img src="https://github.com/pedrozand/github/blob/main/GIF-AOT.gif" width="300px" align="left">
 <br><br><br><br><br><br>
  
-  <div><h1 align="center"> Pedrozand na parada 🥶 </h1></div>
+  <div><h1 align="center"> Pedro Oliveira </h1></div>
   
   <br><br><br><br>
   
   # Sobre mim
-  Sou estudante na Faculdade de Tecnologia do estado de São Paulo, tenho foco na área de Redes de Computadores porém minha paixão por códigos é gigante, tenho afinidade com linguagens de Back-end e manipulação de Banco de Dados com aspecto exclusivo em SQL.
+  Sou formado em Analise e Desenvovimento de Sistema e Gestão da Tecnologia da Informação pela faculdade de tecnologia do estado de São Paulo (Fatec), atualmente trabalho como Analista de Redes Pleno, no meu dia a dia trabalho com linhas de comando em SSH e Telnet, porém continuo programando pelo constante conhecimento, meu foco principal são nas linguagens para manipulação de dados e ETL, como Python e SQL porém possuiu alguns projetos feitos em ASP.NET e Java, sempre tendo ao lado negro da força Back-End <3 
+
+Vamos nos conectar e troca conhecimentos ^~^
   
  
 <br>
@@ -33,5 +35,9 @@
 
 <div>
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture> 
 </div>
