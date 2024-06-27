@@ -7,9 +7,9 @@ Junte-se a mim e vamos explorar novos conhecimentos juntos! ^^
 </div>
 
 <div align="center">
- <img src="https://github.com/pedrozand/github/blob/main/GIF-AOT.gif" width="180px" style="margin-right: 20px;">
-  <img style="margin-bottom: 20px" align="start" height="130em" src="https://github-readme-stats.vercel.app/api?username=pedrozand&show_icons=true&count_private=true&theme=react&border_color=D2691E&bg_color=0d1117&title_color=CD853F&icon_color=FF4500" />
-  <img align="start" style="margin-bottom: 20px" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrozand&exclude_repo=machine-learning&langs_count=8&layout=compact&theme=react&border_color=D2691E&bg_color=0d1117&title_color=CD853F&icon_color=FF4500"/>
+ <img src="https://github.com/pedrozand/github/blob/main/GIF-AOT.gif" width="190px" style="margin-right: 20px;">
+  <img style="margin-bottom: 20px" align="start" height="140em" src="https://github-readme-stats.vercel.app/api?username=pedrozand&show_icons=true&count_private=true&theme=react&border_color=D2691E&bg_color=0d1117&title_color=CD853F&icon_color=FF4500" />
+  <img align="start" style="margin-bottom: 20px" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrozand&exclude_repo=machine-learning&langs_count=8&layout=compact&theme=react&border_color=D2691E&bg_color=0d1117&title_color=CD853F&icon_color=FF4500"/>
 </div>
 
 <br>
