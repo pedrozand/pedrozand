@@ -1,5 +1,5 @@
 
-<img src="https://github.com/pedrozand/github/blob/main/GIF-AOT.gif" width="300px" align="left">
+<div><img src="https://github.com/pedrozand/github/blob/main/GIF-AOT.gif" width="300px" align="left"></div>
 <br><br><br><br><br><br>
  
   <div><h1 align="center"> Pedro Oliveira </h1></div>
@@ -7,9 +7,9 @@
   <br><br><br><br>
   
   # Sobre mim
-  Sou formado em Analise e Desenvovimento de Sistema e Gestão da Tecnologia da Informação pela faculdade de tecnologia do estado de São Paulo (Fatec), atualmente trabalho como Analista de Redes Pleno, no meu dia a dia trabalho com linhas de comando em SSH e Telnet, porém continuo programando pelo constante conhecimento, meu foco principal são nas linguagens para manipulação de dados e ETL, como Python e SQL porém possuiu alguns projetos feitos em ASP.NET e Java, sempre tendo ao lado negro da força Back-End <3 
+  Sou formado em Analise e Desenvovimento de Sistema e Gestão da Tecnologia da Informação pela faculdade de tecnologia do estado de São Paulo (Fatec), atualmente sou Analista de Redes Pleno e no meu dia a dia trabalho com linhas de comando em SSH e Telnet, porém continuo programando pelo constante conhecimento, meu foco principal são nas linguagens para manipulação de dados e ETL, como Python e SQL porém possuo alguns projetos feitos em ASP.NET e Java, sempre tendendo ao lado negro da força, Back-End <3 
 
-Vamos nos conectar e troca conhecimentos ^~^
+Vamos nos conectar e troca conhecimentos ^^
   
  
 <br>
@@ -33,11 +33,17 @@ Vamos nos conectar e troca conhecimentos ^~^
   <a><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></a>
 </div> 
 
-<div>
- 
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture> 
-</div>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
