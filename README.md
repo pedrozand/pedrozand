@@ -1,7 +1,9 @@
-<div style="overflow: auto;">
-  <img src="https://github.com/pedrozand/github/blob/main/GIF-AOT.gif" width="300px" style="float: left; margin-right: 20px;">
-  <h1 style="margin: 0;">Pedro Oliveira</h1>
-</div>
+<img src="https://github.com/pedrozand/github/blob/main/GIF-AOT.gif" width="300px" align="left">
+<br><br><br><br><br><br>
+ 
+  <div><h1 align="center"> Pedrozand na parada 🥶 </h1></div>
+  
+  <br><br><br><br>
 
 ## Sobre mim
 Sou formado em Análise e Desenvolvimento de Sistemas e Gestão da Tecnologia da Informação pela Faculdade de Tecnologia do Estado de São Paulo (Fatec). Atualmente, sou Analista de Redes Pleno e trabalho diariamente com linhas de comando em SSH e Telnet. Meu foco principal está nas linguagens para manipulação de dados e ETL, como Python e SQL, embora também tenha experiência em projetos feitos em ASP.NET e Java. Sempre tendendo ao lado do backend!
