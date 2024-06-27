@@ -7,7 +7,7 @@ Junte-se a mim e vamos explorar novos conhecimentos juntos! ^^
 </div>
 
 <div align="center">
- <img src="https://github.com/pedrozand/github/blob/main/GIF-AOT.gif" width="300px" style="margin-right: 20px;">
+ <img src="https://github.com/pedrozand/github/blob/main/GIF-AOT.gif" width="210px" style="margin-right: 20px;">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrozand&show_icons=true&count_private=true&theme=react&border_color=D2691E&bg_color=0d1117&title_color=CD853F&icon_color=FF4500" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrozand&exclude_repo=machine-learning&langs_count=8&layout=compact&theme=react&border_color=D2691E&bg_color=0d1117&title_color=CD853F&icon_color=FF4500"/>
 </div>
