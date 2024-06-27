@@ -1,21 +1,18 @@
-<img src="https://github.com/pedrozand/github/blob/main/GIF-AOT.gif" width="300px" align="left">
-<br><br><br><br><br><br>
- 
-  <div><h1 align="center"> Pedrozand na parada 🥶 </h1></div>
-  
-  <br><br><br><br>
+# Ola me chamo Pedro Oliveira
 
-## Sobre mim
-Sou formado em Análise e Desenvovimento de Sistema e Gestão da Tecnologia da Informação pela faculdade de tecnologia do estado de São Paulo (Fatec). Atualmente sou Analista de Redes Pleno e trabalho dirarimente com linhas de comando em SSH e Telnet, porém continuo programando pelo constante conhecimento e intusiasmo. Meus estudos estão focados nas linguagens em manipulação de dados e ETL, como Python e SQL, porém possuo alguns projetos feitos em ASP.NET e Java, sempre tendendo ao lado negro da força, Back-End <3 
+Sou formado em Análise e Desenvovimento de Sistema e Gestão da Tecnologia da Informação pela faculdade de tecnologia do estado de São Paulo (Fatec). Atualmente sou Analista de Redes Pleno e trabalho dirarimente com linhas de comando em SSH e Telnet, porém continuo programando pelo constante conhecimento e intusiasmo. Meus estudos estão focados nas linguagens em manipulação de dados e ETL, como Python e SQL, porém possuo alguns projetos feitos em ASP.NET e Java, sempre tendendo ao lado negro da força, Back-End <3
 
-Vamos nos conectar e trocar conhecimento ^^
+Junte-se a mim e vamos explorar novos conhecimentos juntos! ^^
 
-<br>
+</div>
 
 <div align="center">
+ <img src="https://github.com/pedrozand/github/blob/main/GIF-AOT.gif" width="300px" style="margin-right: 20px;">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrozand&show_icons=true&count_private=true&theme=react&border_color=D2691E&bg_color=0d1117&title_color=CD853F&icon_color=FF4500" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrozand&exclude_repo=machine-learning&langs_count=8&layout=compact&theme=react&border_color=D2691E&bg_color=0d1117&title_color=CD853F&icon_color=FF4500"/>
 </div>
+
+<br>
 
 ## Minhas Redes
 <div align="center">
@@ -32,19 +29,3 @@ Vamos nos conectar e trocar conhecimento ^^
   <a><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></a>
 </div>
-
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
