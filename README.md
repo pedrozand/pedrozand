@@ -6,9 +6,9 @@
   <br><br><br><br>
 
 ## Sobre mim
-Sou formado em Análise e Desenvolvimento de Sistemas e Gestão da Tecnologia da Informação pela Faculdade de Tecnologia do Estado de São Paulo (Fatec). Atualmente, sou Analista de Redes Pleno e trabalho diariamente com linhas de comando em SSH e Telnet. Meu foco principal está nas linguagens para manipulação de dados e ETL, como Python e SQL, embora também tenha experiência em projetos feitos em ASP.NET e Java. Sempre tendendo ao lado do backend!
+Sou formado em Análise e Desenvovimento de Sistema e Gestão da Tecnologia da Informação pela faculdade de tecnologia do estado de São Paulo (Fatec). Atualmente sou Analista de Redes Pleno e trabalho dirarimente com linhas de comando em SSH e Telnet, porém continuo programando pelo constante conhecimento e intusiasmo. Meus estudos estão focados nas linguagens em manipulação de dados e ETL, como Python e SQL, porém possuo alguns projetos feitos em ASP.NET e Java, sempre tendendo ao lado negro da força, Back-End <3 
 
-Vamos nos conectar e trocar conhecimentos ^^
+Vamos nos conectar e trocar conhecimento ^^
 
 <br>
 
