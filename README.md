@@ -6,32 +6,38 @@ Sou formado em Análise e Desenvovimento de Sistema e Gestão da Tecnologia da I
 
 Vamos nos conectar e compartilhar conhecimentos! ^^
 
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/> 
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /> 
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg"/>  
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original.svg" /
 </div>
 
+##
+
 <div align="center">
- <img src="https://github.com/pedrozand/github/blob/main/GIF-AOT.gif" width="190px" style="margin-right: 20px;">
+  <a href="https://www.linkedin.com/in/pedro-oliveira-644718206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/pedrozand_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:pedroliveira.eear@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.beecrowd.com.br/judge/pt/profile/743098" target="_blank"><img height="28em" src="https://github.com/pedrozand/auxilio/blob/main/beecrowd__negativoHor-vazado-small-PNG-1024x246-removebg-preview.png"></a>
+</div>
+
+<div align="center"><br>
+  <img src="https://github.com/pedrozand/github/blob/main/GIF-AOT.gif" width="190px" style="margin-right: 20px;">
   <img style="margin-bottom: 20px" align="start" height="140em" src="https://github-readme-stats.vercel.app/api?username=pedrozand&show_icons=true&count_private=true&theme=react&border_color=D2691E&bg_color=0d1117&title_color=CD853F&icon_color=FF4500" />
   <img align="start" style="margin-bottom: 20px" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrozand&exclude_repo=machine-learning&langs_count=8&layout=compact&theme=react&border_color=D2691E&bg_color=0d1117&title_color=CD853F&icon_color=FF4500"/>
 </div>
 
-<br>
-
-<div align="left">
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50"/></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" height="50"/></a>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" height="50"/>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50"/>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" width="50" height="50"/></a>
- 
-                
-          
-          
-</div>
-
 <div align="center">
-  <a href="https://discordapp.com/users/Pedro Oliveira#8203" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="mailto:pedroliveira.eear@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-oliveira-644718206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.beecrowd.com.br/judge/pt/profile/743098" target="_blank"><img height="28em" src="https://github.com/pedrozand/auxilio/blob/main/beecrowd__negativoHor-vazado-small-PNG-1024x246-removebg-preview.png"></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</picture>
 </div>
