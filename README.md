@@ -2,7 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brunomontezano)](https://github.com/brunomontezano)
 
-Sou formado em Análise e Desenvovimento de Sistema e Gestão da Tecnologia da Informação pela faculdade de tecnologia do estado de São Paulo (Fatec). Atualmente sou Analista de Redes Pleno e trabalho diariamente com as protocolos de administração de rede como SSH e Telnet via terminal, porém continuo programando pelo constante conhecimento e intusiasmo na área, foco meus estudos em linguagens de manipulação de dados e ETL, como Python e SQL, porém possuo alguns projetos feitos em ASP.NET e Java, sempre tendendo ao lado negro da força, Back-End <3
+Sou formado em Análise e Desenvovimento de Sistema e Gestão da Tecnologia da Informação pela faculdade de tecnologia do estado de São Paulo (Fatec). Atualmente sou Analista de Redes Pleno e trabalho diariamente com protocolos de administração de rede como SSH e Telnet via terminal fora outras atibuições que tenho em meu cargo, porém continuo programando pelo constante conhecimento e intusiasmo na área, meus estudos são focados em linguagens de manipulação de dados e ETL, como Python e SQL, porém possuo alguns projetos feitos em ASP.NET e Java, sempre tendendo ao lado negro da força, Back-End <3
 
 Vamos nos conectar e compartilhar conhecimentos! ^^
 
