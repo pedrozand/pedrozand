@@ -2,7 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brunomontezano)](https://github.com/brunomontezano)
 
-Sou formado em Análise e Desenvovimento de Sistema e Gestão da Tecnologia da Informação pela faculdade de tecnologia do estado de São Paulo (Fatec). Atualmente sou Analista de Redes Pleno e trabalho diariamente com linhas de comando em SSH e Telnet, porém continuo programando pelo constante conhecimento e intusiasmo na área, foco meus estudos em linguagens de manipulação de dados e ETL, como Python e SQL, porém possuo alguns projetos feitos em ASP.NET e Java, sempre tendendo ao lado negro da força, Back-End <3
+Sou formado em Análise e Desenvovimento de Sistema e Gestão da Tecnologia da Informação pela faculdade de tecnologia do estado de São Paulo (Fatec). Atualmente sou Analista de Redes Pleno e trabalho diariamente com as protocolos de administração de rede como SSH e Telnet via terminal, porém continuo programando pelo constante conhecimento e intusiasmo na área, foco meus estudos em linguagens de manipulação de dados e ETL, como Python e SQL, porém possuo alguns projetos feitos em ASP.NET e Java, sempre tendendo ao lado negro da força, Back-End <3
 
 Vamos nos conectar e compartilhar conhecimentos! ^^
 
@@ -29,7 +29,6 @@ Vamos nos conectar e compartilhar conhecimentos! ^^
           
 </div>
 
-## Minhas Redes
 <div align="center">
   <a href="https://discordapp.com/users/Pedro Oliveira#8203" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="mailto:pedroliveira.eear@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
