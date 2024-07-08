@@ -31,7 +31,7 @@ Vamos nos conectar e compartilhar conhecimentos! ^^
 <div align="center"><br>
   <img src="https://github.com/pedrozand/github/blob/main/GIF-AOT.gif" width="190px" style="margin-right: 20px;">
   <img style="margin-bottom: 20px" align="start" height="140em" src="https://github-readme-stats.vercel.app/api?username=pedrozand&show_icons=true&count_private=true&theme=gruvbox&border_color=EE4400"/>
-  <img align="start" style="margin-bottom: 20px" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrozand&include_repo=lobbyTG&langs_count=8&layout=compact&theme=gruvbox&border_color=EE4400&v=2"/>
+  <img align="start" style="margin-bottom: 20px" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrozand&include_repo=teste&langs_count=8&layout=compact&theme=gruvbox&border_color=EE4400&v=2"/>
 </div>
 
 <div align="center">
