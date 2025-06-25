@@ -2,12 +2,21 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/pedrozand)](https://github.com/pedrozand)
 
-Sou formado em Análise e Desenvovimento de Sistema e Gestão da Tecnologia da Informação pela faculdade de tecnologia do estado de São Paulo (Fatec). Atualmente sou Analista de Redes Pleno e trabalho diariamente com protocolos de administração de rede como SSH e Telnet via terminal que são uma das minhas atribuições referente ao meu cargo. Entretanto continuo programando pelo constante conhecimento e intusiasmo na área, meus estudos são focados em linguagens de manipulação de dados e ETL, como Python e SQL, porém possuo alguns projetos feitos em ASP.NET C#, JavaScript (HTML + CSS) e Java, sempre tendendo ao lado negro da força, Back-End <3
+Sou formado em Análise e Desenvolvimento de Sistemas e em Gestão da Tecnologia da Informação pela Faculdade de Tecnologia do Estado de São Paulo (Fatec). Atualmente, curso pós-graduação em Gestão Estratégica de Tecnologia da Informação pelo Instituto Federal de Bragança Paulista, ampliando minha visão sobre o papel da TI nos negócios e na tomada de decisões estratégicas, buscando me aprofundar cada vez mais na área. Paralelamente, estou me especializando na área de redes por meio do curso CCNA V7 - Introduction to Networks, oferecido pelo SENAI de Bragança Paulista.
 
-Vamos nos conectar e compartilhar conhecimentos! ^^
+Atuo como Analista de Redes Pleno, trabalhando diariamente com protocolos de administração de redes, como SSH e Telnet, além de atuar com equipamentos das marcas Huawei, FiberHome e Mikrotik.
+
+Apesar do foco atual em infraestrutura, continuo estudando e programando por puro entusiasmo e sede de conhecimento. Meus estudos se concentram principalmente em linguagens voltadas à manipulação de dados e processos ETL, como Python e SQL. Também desenvolvo projetos em outras tecnologias como ASP.NET com C#, JavaScript Node.js, React, HTML, CSS e Java — sempre com uma queda especial pelo lado "negro da força", o Back-End. 💻🖤
+
+Vamos nos conectar e compartilhar conhecimento! ^^
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /> 
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/> 
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
