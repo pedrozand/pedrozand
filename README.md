@@ -4,7 +4,7 @@
 
 Sou formado em Análise e Desenvolvimento de Sistemas e em Gestão da Tecnologia da Informação pela Faculdade de Tecnologia do Estado de São Paulo (Fatec). Atualmente, curso pós-graduação em Gestão Estratégica de Tecnologia da Informação pelo Instituto Federal de Bragança Paulista, ampliando minha visão sobre o papel da TI nos negócios e na tomada de decisões estratégicas, buscando me aprofundar cada vez mais na área. Paralelamente, estou me especializando na área de redes por meio do curso CCNA V7 - Introduction to Networks, oferecido pelo SENAI de Bragança Paulista.
 
-Atuo como Analista de Redes Pleno, trabalhando diariamente com protocolos de administração de redes, como SSH e Telnet, além de atuar com equipamentos das marcas Huawei, FiberHome e Mikrotik.
+Atuo como Analista de Redes Pleno, trabalhando diariamente com protocolos de administração de redes, como SSH e Telnet, além de atuar com equipamentos das marcas Huawei, Cisco, FiberHome, Mikrotik, entre outros.
 
 Apesar do foco atual em infraestrutura, continuo estudando e programando por puro entusiasmo e sede de conhecimento. Meus estudos se concentram principalmente em linguagens voltadas à manipulação de dados e processos ETL, como Python e SQL. Também desenvolvo projetos em outras tecnologias como ASP.NET com C#, JavaScript Node.js, React, HTML, CSS e Java — sempre com uma queda especial pelo lado "negro da força", o Back-End. 💻🖤
 
